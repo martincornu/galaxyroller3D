@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: b7d7cd2e2a6ffa54498ce72eda4ed34f
+timeCreated: 1460376323
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerTexturesPreview_0
+    21300002: PlayerTexturesPreview_1
+    21300004: PlayerTexturesPreview_2
+    21300006: PlayerTexturesPreview_3
+    21300008: PlayerTexturesPreview_4
+    21300010: PlayerTexturesPreview_5
+    21300012: PlayerTexturesPreview_6
+    21300014: PlayerTexturesPreview_7
+    21300016: PlayerTexturesPreview_8
+    21300018: PlayerTexturesPreview_9
+    21300020: PlayerTexturesPreview_10
+    21300022: PlayerTexturesPreview_11
+    21300024: PlayerTexturesPreview_12
+    21300026: PlayerTexturesPreview_13
+    21300028: PlayerTexturesPreview_14
+    21300030: PlayerTexturesPreview_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerTexturesPreview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 55}
+        - {x: -55, y: 30}
+        - {x: -55, y: -32}
+        - {x: -34, y: -53}
+        - {x: 32, y: -53}
+        - {x: 54, y: -35}
+        - {x: 54, y: 28}
+        - {x: 36, y: 55}
+    - name: PlayerTexturesPreview_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 54}
+        - {x: -33, y: 54}
+        - {x: -57, y: 29}
+        - {x: -57, y: -46}
+        - {x: -26, y: -56}
+        - {x: 29, y: -56}
+        - {x: 38, y: -48}
+        - {x: 53, y: -30}
+        - {x: 53, y: 24}
+    - name: PlayerTexturesPreview_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 55}
+        - {x: -29, y: 55}
+        - {x: -55, y: 35}
+        - {x: -55, y: -27}
+        - {x: -41, y: -54}
+        - {x: 32, y: -54}
+        - {x: 55, y: -30}
+        - {x: 55, y: 37}
+        - {x: 50, y: 48}
+    - name: PlayerTexturesPreview_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 53}
+        - {x: -56, y: 39}
+        - {x: -58, y: 29}
+        - {x: -58, y: -41}
+        - {x: -47, y: -56}
+        - {x: 32, y: -56}
+        - {x: 52, y: -43}
+        - {x: 52, y: 29}
+        - {x: 21, y: 53}
+    - name: PlayerTexturesPreview_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 56}
+        - {x: -56, y: 54}
+        - {x: -56, y: -53}
+        - {x: 50, y: -53}
+        - {x: 52, y: -52}
+        - {x: 52, y: 52}
+        - {x: 34, y: 56}
+    - name: PlayerTexturesPreview_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 56}
+        - {x: -54, y: 35}
+        - {x: -54, y: -37}
+        - {x: -36, y: -53}
+        - {x: 30, y: -53}
+        - {x: 54, y: -35}
+        - {x: 54, y: 29}
+        - {x: 45, y: 56}
+    - name: PlayerTexturesPreview_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 61}
+        - {x: -55, y: 43}
+        - {x: -55, y: -19}
+        - {x: -30, y: -47}
+        - {x: 39, y: -47}
+        - {x: 54, y: -26}
+        - {x: 54, y: 34}
+        - {x: 41, y: 61}
+    - name: PlayerTexturesPreview_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 61}
+        - {x: -55, y: 56}
+        - {x: -55, y: -46}
+        - {x: -51, y: -47}
+        - {x: 36, y: -47}
+        - {x: 56, y: -38}
+        - {x: 56, y: 61}
+    - name: PlayerTexturesPreview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 55}
+        - {x: -57, y: 43}
+        - {x: -57, y: -42}
+        - {x: -41, y: -53}
+        - {x: 21, y: -53}
+        - {x: 52, y: -40}
+        - {x: 52, y: 32}
+        - {x: 29, y: 55}
+    - name: PlayerTexturesPreview_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 57}
+        - {x: -55, y: 33}
+        - {x: -55, y: -23}
+        - {x: -46, y: -52}
+        - {x: -36, y: -53}
+        - {x: 37, y: -53}
+        - {x: 55, y: -32}
+        - {x: 55, y: 46}
+        - {x: 29, y: 57}
+    - name: PlayerTexturesPreview_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 56}
+        - {x: -56, y: 48}
+        - {x: -56, y: -31}
+        - {x: -38, y: -54}
+        - {x: 25, y: -54}
+        - {x: 33, y: -48}
+        - {x: 54, y: -25}
+        - {x: 54, y: 34}
+        - {x: 49, y: 56}
+    - name: PlayerTexturesPreview_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 57}
+        - {x: -54, y: 57}
+        - {x: -56, y: 46}
+        - {x: -56, y: -55}
+        - {x: 51, y: -55}
+        - {x: 56, y: -54}
+        - {x: 56, y: 22}
+        - {x: 36, y: 56}
+    - name: PlayerTexturesPreview_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 55}
+        - {x: -55, y: 18}
+        - {x: -55, y: -32}
+        - {x: -35, y: -55}
+        - {x: 26, y: -55}
+        - {x: 43, y: -51}
+        - {x: 55, y: -25}
+        - {x: 55, y: 27}
+        - {x: 36, y: 55}
+    - name: PlayerTexturesPreview_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 55}
+        - {x: -56, y: 28}
+        - {x: -56, y: -45}
+        - {x: -33, y: -55}
+        - {x: 47, y: -55}
+        - {x: 54, y: -39}
+        - {x: 54, y: 37}
+        - {x: 30, y: 55}
+    - name: PlayerTexturesPreview_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 56}
+        - {x: -44, y: 56}
+        - {x: -57, y: 24}
+        - {x: -57, y: -39}
+        - {x: -46, y: -55}
+        - {x: 41, y: -55}
+        - {x: 54, y: -33}
+        - {x: 54, y: 38}
+    - name: PlayerTexturesPreview_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 57}
+        - {x: -53, y: 44}
+        - {x: -55, y: 38}
+        - {x: -55, y: -37}
+        - {x: -34, y: -55}
+        - {x: 31, y: -55}
+        - {x: 56, y: -30}
+        - {x: 56, y: 49}
+        - {x: 31, y: 57}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
