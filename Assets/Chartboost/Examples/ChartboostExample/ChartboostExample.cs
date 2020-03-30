@@ -52,12 +52,12 @@ public class ChartboostExample: MonoBehaviour
 
 		AddLog("Is Initialized: " + Chartboost.isInitialized());
 
-        
-        /*
-		// Create the Chartboost gameobject with the editor AppId and AppSignature
-		// Remove the Chartboost gameobject from the sample first
-		Chartboost.Create();
-		*/
+
+
+        // Create the Chartboost gameobject with the editor AppId and AppSignature
+        // Remove the Chartboost gameobject from the sample first
+        //Chartboost.Create();
+
 
         /*
 		// Sample to create Chartboost gameobject from code overriding editor AppId and AppSignature
