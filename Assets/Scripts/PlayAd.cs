@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
+#if UNITY_ADS
 using UnityEngine.Advertisements;
+#endif
 using System.Collections;
 
 public class PlayAd : MonoBehaviour {
@@ -8,12 +10,15 @@ public class PlayAd : MonoBehaviour {
 
     public void ShowAd()
     {
+        #if UNITY_ADS
         if (Advertisement.IsReady())
         {
             Advertisement.Show("rewardedVideo", new ShowOptions() { resultCallback = HandleAdResult });
         }
+        #endif
     }
 
+    #if UNITY_ADS
     private void HandleAdResult(ShowResult result)
     {
         switch (result)
@@ -29,7 +34,7 @@ public class PlayAd : MonoBehaviour {
             case ShowResult.Failed:
                 thePanel.SetActive(true);
                 break;
-        }
     }
+    #endif
 
 }
