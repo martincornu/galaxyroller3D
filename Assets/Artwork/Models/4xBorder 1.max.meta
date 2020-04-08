@@ -1,31 +1,23 @@
 fileFormatVersion: 2
-guid: 0bc31f32f7d733549a313ae6feeb8c8b
-timeCreated: 1460128338
+guid: 408c8cd32cdbbe941ad8b6c91918ec96
+timeCreated: 1586376968
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: 4x4
     400000: //RootNode
-    400002: 4x4
+    2100000: 'Material #26'
     2300000: //RootNode
-    2300002: 4x4
     3300000: //RootNode
-    3300002: 4x4
-    4300000: 4x4
+    4300000: 4xBorder
     9500000: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: 'Material #26'
-    second: {fileID: 2100000, guid: 438a28708deeeb542a5ee36c3d6f7709, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -74,7 +66,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 0
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -92,7 +84,7 @@ ModelImporter:
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
-    skeletonHasParents: 0
+    skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
   humanoidOversampling: 1
